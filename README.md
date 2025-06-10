@@ -10,7 +10,6 @@ A **full-stack stock trading simulation platform** built with **React** for the 
 - 💰 **Transactions**: Simulate buy/sell operations and track portfolio value.
 - 📈 **Real-time Updates**: Instant UI updates for simulated stock transactions.
 - 📱 **Responsive Design**: Fully responsive with custom CSS for mobile/desktop.
-- 🔐 **User Authentication**: Secure login, session management, and protected routes.
 - 🗃️ **MongoDB**: Data is stored in MongoDB for transactions, user accounts, and portfolio management.
 
 ---
